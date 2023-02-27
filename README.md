@@ -8,6 +8,10 @@ https://maximsamorukov.github.io/RESUME/index-en.html,
 
 https://maximsamorukov.github.io/RESUME/index.html.
 
+### Working Experience and education:
+- frontend developer, 02.2021 - н.в.
+- Master's degree Moscow State Technical University named after N.E. Bauman, Moscow;
+
 ### Profiles
 
 [![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/) [![](https://img.shields.io/static/v1?label=Resume&message=english&color=informational&style=flat-square)](https://resume.io/r/sp3tFgS9X)
