@@ -9,7 +9,7 @@ https://maximsamorukov.github.io/RESUME/index-en.html,
 https://maximsamorukov.github.io/RESUME/index.html.
 
 ### Working Experience and education:
-- frontend developer, 02.2021 - н.в.
+- frontend developer, 02.2020 - present time
 - Master's degree Moscow State Technical University named after N.E. Bauman, Moscow;
 
 ### Profiles
