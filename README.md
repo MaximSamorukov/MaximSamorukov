@@ -1,8 +1,6 @@
 # Maksim Samorukov
 ### web developer
 e-mail: maxim.samorukov@gmail.com,
-cell ru: 8-925-026-17-37,
-cell ge: 995-591-992-362,
 
 https://maximsamorukov.github.io/RESUME/index-en.html,
 
