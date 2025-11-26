@@ -86,18 +86,11 @@ https://maximsamorukov.github.io/RESUME/index.html.
                 <th>Link</th>
             </tr>
      <tr>
-      <td rowspan="2">Resume</td>
-      <td rowspan="2">This resume. Written in React with some elements from antd library, deployed to Vercel.</td>
+      <td rowspan="2">3D Printing studio app</td>
+      <td rowspan="2">A Next.js web application for promoting the services of a 3D-printing workshop. The project combines a client interface for users and an administrative panel, enabling full automation of the order workflow — from submitting a request to making a payment.</td>
       <td><a href="https://github.com/MaximSamorukov/react_resume">Github repository</a></td>
     </tr>
-        <td><a href="https://react-resume-sandy.vercel.app/">Deploy </a></td>
-    </tr>
-    <tr>
-      <td rowspan="2">Todo app with extended functionality</td>
-      <td rowspan="2">Stack: React, Redux Toolkit, SCSS, Material UI, lodash, validatorjs. Deployed to Vercel.</td>
-      <td><a href="https://github.com/MaximSamorukov/advanced_todo">Github repository</a></td>
-    </tr>
-        <td><a href="https://advanced-todo-iota.vercel.app/">Deploy </a></td>
+        <td><a href="https://3d-studio-nine.vercel.app/">Deploy </a></td>
     </tr>
   </table>
 
