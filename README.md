@@ -146,7 +146,7 @@ https://resume-26022026.vercel.app/
     </tr>
     <tr>
       <td>NRC 'Kurchatov Institute' – VIAM</td>
-      <td>P.H.D Material Science</td>
+      <td>P.H.D, Material Science</td>
     </tr>
     <tr>
       <td>Moscow State Technical University N.E.Bauman</td>
