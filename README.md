@@ -12,7 +12,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
 
 ### Profiles
 
-[![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/) [![](https://img.shields.io/static/v1?label=Resume&message=english&color=informational&style=flat-square)](https://resume.io/r/sp3tFgS9X)
+[![GitHub](https://resume-26022026.vercel.app/gh.svg)](https://github.com/MaximSamorukov) [![LinkedIn](https://resume-26022026.vercel.app/ln.svg)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/) [![Telegram](https://resume-26022026.vercel.app/tg.svg)](https://t.me/M_Camopykoff) [![Gmail](https://resume-26022026.vercel.app/email.svg)](mailto:maxim.samorukov@gmail.com)
 
 ### Working stack, keywords:
 - HTML, CSS, Less, SCSS;
