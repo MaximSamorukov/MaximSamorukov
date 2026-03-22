@@ -13,7 +13,7 @@ https://resume-26022026.vercel.app/
     <tr>
       <td style="font-weight: bold">main</td>
       <td>
-        JavaScript, TypeScript, node.js, Next,js, React
+        JavaScript, TypeScript, Node.js, Next.js, React
       </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@ https://resume-26022026.vercel.app/
     </tr>
     <tr>
       <td style="font-weight: bold">integrations</td>
-      <td>REST Api, GraphQL, WebSockets</td>
+      <td>REST API, GraphQL, WebSockets</td>
     </tr>
     <tr>
       <td style="font-weight: bold">infrastructure & DevOps</td>
@@ -56,11 +56,11 @@ https://resume-26022026.vercel.app/
     </tr>
     <tr>
       <td>01.02.2021 - 15.08.2023</td>
-      <td>React developer · Mahuru, LC</td>
+      <td>React developer · Mahuru, LLC</td>
     </tr>
     <tr>
       <td>01.09.2008 - 01.09.2020</td>
-      <td>Engineer developer · NRC 'Kurchatov institute', FSUE 'VIAM'</td>
+      <td>Engineering developer · NRC 'Kurchatov Institute', FSUE 'VIAM'</td>
     </tr>
   </table>
 
@@ -68,26 +68,13 @@ https://resume-26022026.vercel.app/
 
   <table style="font-size: 80%" width="100%">
     <tr>
-      <th>Name</th>
+      <th>Organization</th>
       <th>Technologies</th>
     </tr>
     <tr>
       <td>Hexlet.io, Frontend web developer</td>
       <td rowspan="2">
-        - Arrays
-        - Objects
-        - Functions
-        - Trees
-        - OOP
-        - Frontend architecture of web applications
-        - HTTP protocol
-        - Asynchronous operations
-        - DOM Api
-        - React, Redux
-        - HTTP Server
-        - Express.js
-        - Database basics
-        - Git
+        Frontend development, Core JavaScript, Algorithms, OOP, Frontend architecture of web applications, web basics, Asynchronous operations, DOM API, React, state management, backend development in Node.js, Express.js, Database basics, Git
       </td>
     </tr>
     <tr>
@@ -96,39 +83,94 @@ https://resume-26022026.vercel.app/
     <tr>
       <td>HTML Academy</td>
       <td>
-        - HTML;
-        - CSS;
+        HTML, CSS, JavaScript, PHP
       </td>
     </tr>
     <tr>
       <td>RS School JS Frontend 2020</td>
       <td>
-        - adaptive web applications;
-        - SPA;
+        adaptive web applications, SPA
       </td>
     </tr>
     <tr>
       <td>RS School NodeJS 2020</td>
       <td>
-        - encryption / decryption cli application;
-        - Express.js and MongoDB base application with logging, error handling and authorization functions;
+        encryption / decryption cli application, Express.js and MongoDB base application with logging, error handling and authorization functions
       </td>
+    </tr>
+    <tr>
+      <td rowspan="2">Hexlet.io</td>
+      <td>
+        SQL for data analysis
+      </td>
+    </tr>
+    <tr>
+      <td>
+        SQL for web developers
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="5">Stepik</td>
+      <td>
+        Testing JS and React applications
+      </td>
+    </tr>
+    <tr>
+      <td>
+        React, Next.js 13, TypeScript, Hooks, SSR, CSS Grid
+      </td>
+    </tr>
+    <tr>
+      <td>
+        TypeScript for modern development
+      </td>
+    </tr>
+    <tr>
+      <td>
+        React Native and Expo Router
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Frontend React Senior. Job interview preparation
+      </td>
+    </tr>
+  </table>
+
+### Higher Education
+
+  <table style="font-size: 80%" width="100%">
+    <tr>
+      <th>Organization</th>
+      <th>Degree, Speciality</th>
+    </tr>
+    <tr>
+      <td>NRC 'Kurchatov Institute' – VIAM</td>
+      <td>P.H.D Material Science</td>
+    </tr>
+    <tr>
+      <td>Moscow State Technical University N.E.Bauman</td>
+      <td>engineering developer, Material Science</td>
+    </tr>
+    <tr>
+      <td>Moscow State Technical University N.E.Bauman</td>
+      <td>engineering economist, Enterprise Economy</td>
     </tr>
   </table>
 
 ### Code examples
   <table style="font-size: 80%" width="100%">
     <tr>
-                <th>Title</th>
-                <th>Description</th>
-                <th>Link</th>
-            </tr>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
      <tr>
       <td rowspan="2">3D Printing studio app</td>
       <td rowspan="2">A Next.js web application for promoting the services of a 3D-printing workshop. The project combines a client interface for users and an administrative panel, enabling full automation of the order workflow — from submitting a request to making a payment.</td>
-      <td><a href="https://github.com/MaximSamorukov/react_resume">Github repository</a></td>
+      <td><a href="https://github.com/MaximSamorukov/react_resume">GitHub repository</a></td>
     </tr>
-        <td><a href="https://3d-studio-nine.vercel.app/">Deploy </a></td>
+        <td><a href="https://3d-studio-nine.vercel.app/">Deploy</a></td>
     </tr>
   </table>
 
