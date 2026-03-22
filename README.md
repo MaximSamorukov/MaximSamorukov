@@ -11,30 +11,49 @@ https://resume-26022026.vercel.app/
 
 [![PDF](https://resume-26022026.vercel.app/pdf.svg)](https://resume-26022026.vercel.app/resume_frontend_Samorukov.pdf)
 
-### Stack and instruments:
-#### main:
-- JavaScript, TypeScript, node.js, Next,js, React;
-#### state management:
-- Redux, Redux Toolkit, MobX, Effector, Zustand, Tanstack Query;
-#### testing
-- vitest, jest, React Testing Library
-#### style & UI
-- CSS, SC(A)SS, Less, CSS in JS, Tailwind, Styled Components;
-- Material UI, Ant Design, etc;
-#### integrations
-- REST Api, GraphQL, WebSockets;
-#### infrastructure & DevOps
-- Webpack, Vite, Docker
-#### IDE & AI
-- VSCode, Antigravity, QWENCode, ClaudeCode
+### Stack and instruments
 
+  <table style="font-size: 100%" width="100%">
+    <tr>
+      <td style="font-weight: bold">main</td>
+      <td>
+        JavaScript, TypeScript, node.js, Next,js, React
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold">state management</td>
+      <td>Redux, Redux Toolkit, MobX, Effector, Zustand, Tanstack Query</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold">testing</td>
+      <td>vitest, jest, React Testing Library</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold">styling</td>
+      <td>CSS, SC(A)SS, Less, CSS in JS, Tailwind, Styled Components</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold">UI libs</td>
+      <td>Material UI, Ant Design, etc</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold">integrations</td>
+      <td>REST Api, GraphQL, WebSockets</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold">infrastructure & DevOps</td>
+      <td>Webpack, Vite, Docker</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold">IDE & AI</td>
+      <td>VSCode, Antigravity, QWENCode, ClaudeCode</td>
+    </tr>
+  </table>
 
 ### Experience:
 - frontend developer, 02.2020 - present time
 
-### Education
-
-### Courses
+### Education & courses
 
   <table style="font-size: 80%" width="100%">
     <tr>
