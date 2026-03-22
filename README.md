@@ -5,7 +5,7 @@ https://resume-26022026.vercel.app/
 
 ### Profiles & Resume download
 
-  <table border="0" style="border: none; border-collapse: collapse; width: 100%;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
     <tr>
       <td style="border: none;"><a href="https://github.com/MaximSamorukov"><img src="https://resume-26022026.vercel.app/gh.svg" alt="GitHub"></a></td>
       <td style="border: none;"></td>
