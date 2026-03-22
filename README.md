@@ -3,13 +3,22 @@
 maxim.samorukov@gmail.com,
 https://resume-26022026.vercel.app/
 
-### Profiles
+### Profiles & Resume download
 
-[![GitHub](https://resume-26022026.vercel.app/gh.svg)](https://github.com/MaximSamorukov) [![LinkedIn](https://resume-26022026.vercel.app/ln.svg)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/) [![Telegram](https://resume-26022026.vercel.app/tg.svg)](https://t.me/M_Camopykoff) [![Gmail](https://resume-26022026.vercel.app/email.svg)](mailto:maxim.samorukov@gmail.com)
-
-### Resume
-
-[![PDF](https://resume-26022026.vercel.app/pdf.svg)](https://resume-26022026.vercel.app/resume_frontend_Samorukov.pdf)
+  <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="border: none;"><a href="https://github.com/MaximSamorukov"><img src="https://resume-26022026.vercel.app/gh.svg" alt="GitHub"></a></td>
+      <td style="border: none;"></td>
+      <td style="border: none;"><a href="https://www.linkedin.com/in/maxim-samorukov-a2b10691/"><img src="https://resume-26022026.vercel.app/ln.svg" alt=
+        "LinkedIn"></a></td>
+      <td style="border: none;"></td>
+      <td style="border: none;"><a href="https://t.me/M_Camopykoff"><img src="https://resume-26022026.vercel.app/tg.svg" alt="Telegram"></a></td>
+      <td style="border: none;"></td>
+      <td style="border: none;"><a href="mailto:maxim.samorukov@gmail.com"><img src="https://resume-26022026.vercel.app/email.svg" alt="Gmail"></a></td>
+      <td style="border: none;"></td>
+      <td style="border: none;"><a href="https://resume-26022026.vercel.app/resume_frontend_Samorukov.pdf"><img src="https://resume-26022026.vercel.app/pdf.svg" alt="Gmail"></a></td>
+    </tr>
+  </table>
 
 ### Stack and instruments
 
@@ -51,7 +60,22 @@ https://resume-26022026.vercel.app/
   </table>
 
 ### Experience:
-- frontend developer, 02.2020 - present time
+  <table style="font-size: 100%" width="100%">
+    <tr>
+      <td>01.09.2023 - 30.05.2025</td>
+      <td>
+        React developer · Program-Service, Ltd
+      </td>
+    </tr>
+    <tr>
+      <td>01.02.2021 - 15.08.2023</td>
+      <td>React developer · Mahuru, LC</td>
+    </tr>
+    <tr>
+      <td>01.09.2008 - 01.09.2020</td>
+      <td>Engineer developer · NRC 'Kurchatov institute', FSUE 'VIAM'</td>
+    </tr>
+  </table>
 
 ### Education & courses
 
