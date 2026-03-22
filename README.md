@@ -99,7 +99,7 @@ https://resume-26022026.vercel.app/
       </td>
     </tr>
     <tr>
-      <td rowspan="2">Hexlet.io</td>
+      <td rowspan="3">Hexlet.io</td>
       <td>
         SQL for data analysis
       </td>
@@ -107,6 +107,11 @@ https://resume-26022026.vercel.app/
     <tr>
       <td>
         SQL for web developers
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Docker in web development
       </td>
     </tr>
     <tr>
