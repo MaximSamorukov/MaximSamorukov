@@ -5,20 +5,7 @@ https://resume-26022026.vercel.app/
 
 ### Profiles & Resume download
 
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
-    <tr>
-      <td style="border: none;"><a href="https://github.com/MaximSamorukov"><img src="https://resume-26022026.vercel.app/gh.svg" alt="GitHub"></a></td>
-      <td style="border: none;"></td>
-      <td style="border: none;"><a href="https://www.linkedin.com/in/maxim-samorukov-a2b10691/"><img src="https://resume-26022026.vercel.app/ln.svg" alt=
-        "LinkedIn"></a></td>
-      <td style="border: none;"></td>
-      <td style="border: none;"><a href="https://t.me/M_Camopykoff"><img src="https://resume-26022026.vercel.app/tg.svg" alt="Telegram"></a></td>
-      <td style="border: none;"></td>
-      <td style="border: none;"><a href="mailto:maxim.samorukov@gmail.com"><img src="https://resume-26022026.vercel.app/email.svg" alt="Gmail"></a></td>
-      <td style="border: none;"></td>
-      <td style="border: none;"><a href="https://resume-26022026.vercel.app/resume_frontend_Samorukov.pdf"><img src="https://resume-26022026.vercel.app/pdf.svg" alt="Gmail"></a></td>
-    </tr>
-  </table>
+[![GitHub](https://resume-26022026.vercel.app/gh.svg)](https://github.com/MaximSamorukov)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://resume-26022026.vercel.app/ln.svg)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Telegram](https://resume-26022026.vercel.app/tg.svg)](https://t.me/M_Camopykoff)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail](https://resume-26022026.vercel.app/email.svg)](mailto:maxim.samorukov@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![PDF](https://resume-26022026.vercel.app/pdf.svg)](https://resume-26022026.vercel.app/resume_frontend_Samorukov.pdf)
 
 ### Stack and instruments
 
