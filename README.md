@@ -1,18 +1,21 @@
 # Maksim Samorukov
-### web developer
+#### web developer
 e-mail: maxim.samorukov@gmail.com,
+website: https://resume-26022026.vercel.app/
 
-https://maximsamorukov.github.io/RESUME/index-en.html,
+### Profiles
 
-https://maximsamorukov.github.io/RESUME/index.html.
+[![GitHub](https://resume-26022026.vercel.app/gh.svg)](https://github.com/MaximSamorukov) [![LinkedIn](https://resume-26022026.vercel.app/ln.svg)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/) [![Telegram](https://resume-26022026.vercel.app/tg.svg)](https://t.me/M_Camopykoff) [![Gmail](https://resume-26022026.vercel.app/email.svg)](mailto:maxim.samorukov@gmail.com)
+
+### Resume
+
+[![PDF](https://resume-26022026.vercel.app/pdf.svg)](https://resume-26022026.vercel.app/resume_frontend_Samorukov.pdf)
+
 
 ### Working Experience and education:
 - frontend developer, 02.2020 - present time
 - Master's degree Moscow State Technical University named after N.E. Bauman, Moscow;
 
-### Profiles
-
-[![GitHub](https://resume-26022026.vercel.app/gh.svg)](https://github.com/MaximSamorukov) [![LinkedIn](https://resume-26022026.vercel.app/ln.svg)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/) [![Telegram](https://resume-26022026.vercel.app/tg.svg)](https://t.me/M_Camopykoff) [![Gmail](https://resume-26022026.vercel.app/email.svg)](mailto:maxim.samorukov@gmail.com)
 
 ### Working stack, keywords:
 - HTML, CSS, Less, SCSS;
