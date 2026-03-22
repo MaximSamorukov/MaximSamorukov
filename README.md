@@ -1,7 +1,7 @@
 # Maksim Samorukov
 #### web developer
-e-mail: maxim.samorukov@gmail.com,
-website: https://resume-26022026.vercel.app/
+maxim.samorukov@gmail.com,
+https://resume-26022026.vercel.app/
 
 ### Profiles
 
@@ -11,23 +11,28 @@ website: https://resume-26022026.vercel.app/
 
 [![PDF](https://resume-26022026.vercel.app/pdf.svg)](https://resume-26022026.vercel.app/resume_frontend_Samorukov.pdf)
 
+### Stack and instruments:
+#### main:
+- JavaScript, TypeScript, node.js, Next,js, React;
+#### state management:
+- Redux, Redux Toolkit, MobX, Effector, Zustand, Tanstack Query;
+#### testing
+- vitest, jest, React Testing Library
+#### style & UI
+- CSS, SC(A)SS, Less, CSS in JS, Tailwind, Styled Components;
+- Material UI, Ant Design, etc;
+#### integrations
+- REST Api, GraphQL, WebSockets;
+#### infrastructure & DevOps
+- Webpack, Vite, Docker
+#### IDE & AI
+- VSCode, Antigravity, QWENCode, ClaudeCode
 
-### Working Experience and education:
+
+### Experience:
 - frontend developer, 02.2020 - present time
-- Master's degree Moscow State Technical University named after N.E. Bauman, Moscow;
 
-
-### Working stack, keywords:
-- HTML, CSS, Less, SCSS;
-- JavaScript, TypeScript, Node.js, PHP;
-- React, Redux;
-- some experience in GraphQL and MongoDB;
-- Figma, Avocode;
-- Git;
-- VSCode, Webpack;
-
-### Foreign language
-- english, Intermediate:
+### Education
 
 ### Courses
 
